@@ -22,18 +22,6 @@ Requirements Check from Project Criteria
 
 
 
-					Features of the Editor.
-1)	Edit
-2)	ADD
-3)	Remove
-4)	Replace
-5)	Open a singe file
-6)	Open Multiple files
-7)	Compile the code
-8)	Run the code
-9)	Handeling Lambda Expression
-10)	Syntax highlight for java keywords
-11)	Save Programs
-12)	Show Errors in Compilation etc
+Features downsized.
 
 ***//End Readme*** 
